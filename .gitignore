@@ -1,0 +1,5 @@
+arch/*.qsf
+arch/*.qws
+arch/*.qpf
+arch/*.ipinfo
+arch/*.rpt
